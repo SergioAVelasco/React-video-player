@@ -1,0 +1,146 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Rock",
+      "title": "Destacados",
+      "playlist": [
+        {
+          "title": "¿Qué es responsive Design?",
+          "author": "LeonidasEsteban",
+          "type": "video",
+          "cover": "./images/covers/responsive.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Cómo optimizar la carga de un website",
+          "author": "LeonidasEsteban",
+          "type": "video",
+          "cover": "./images/covers/optimizar.jpg",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": 2
+        },
+        {
+          "title": "Qué es Bitcoin",
+          "author": "Yograterol",
+          "type": "video",
+          "cover": "./images/covers/bitcoin.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Que pasó con HTML5",
+          "author": "Freddier",
+          "type": "video",
+          "cover": "./images/covers/html5.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Lo mejor de Mejorando.la",
+          "author": "Cvander",
+          "type": "video",
+          "cover": "./images/covers/mejorandola.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "One more time",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "./images/covers/one-more-time.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Midnight City",
+          "author": "M83",
+          "type": "video",
+          "cover": "./images/covers/midnight.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        },
+        {
+          "title": "Solar Sailer",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "./images/covers/solar-sailer.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "The social network",
+          "author": "The social network",
+          "type": "video",
+          "cover": "./images/covers/social.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Hey You",
+          "author": "Pink Floyd",
+          "type": "video",
+          "cover": "./images/covers/heyyou.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "El mejor genero musical",
+      "title": "Rock Progressivo",
+      "playlist": [
+        {
+          "title": "Starless",
+          "author": "King Crimson",
+          "type": "video",
+          "cover": "./images/covers/starless.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Echoes",
+          "author": "Pink Floyd",
+          "type": "video",
+          "cover": "./images/covers/echoes.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Explosia",
+          "author": "Gojira",
+          "type": "video",
+          "cover": "./images/covers/explosia.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "Anesthetize",
+          "author": "Porcupine Tree",
+          "type": "video",
+          "cover": "./images/covers/Anesthetize.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Lateralus",
+          "author": "Tool",
+          "type": "video",
+          "cover": "./images/covers/lateralus.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
+
